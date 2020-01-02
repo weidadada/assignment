@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文章处理</title>
+    <ul class=" article-process">
+        {% for result in article_results %}
+            <li>
+                <div class="article_result -info">
+                     <p class="comment-content">{{ result }}</p>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="268f18e2-f4ea-4226-bdef-c07f526abe98" name="project01服务器" url="http://39.100.3.165">
+        <fileTransfer host="39.100.3.165" port="22" rootFolder="/home/student/project/project-01/project-01/NPL_F4" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
